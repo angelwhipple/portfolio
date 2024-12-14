@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
+  name: "Angel Whipple"
   text: "TODO: Subtitle"
   tagline: "TODO: Tagline"
   actions:

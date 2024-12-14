@@ -12,10 +12,10 @@ hero:
       link: "mailto:awhipp@mit.edu"
     - theme: alt
       text: View Resume
-      link: "./media/resume.pdf"
+      link: "/portfolio/media/resume.pdf"
 features:
   - title: Projects
-    details: A recap of personal projects I've pursued over the years.
+    details: A recap of personal and class projects I've pursued over the years.
     link: /projects
   - title: Experience
     details: Explore my formal internship and teaching experiences.

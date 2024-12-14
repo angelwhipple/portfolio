@@ -3,6 +3,6 @@ title: Crash
 layout: doc
 ---
 
-# Project 1
+# Crash
 
 Write some cool stuff here!

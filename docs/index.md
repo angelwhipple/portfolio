@@ -10,9 +10,9 @@ hero:
     - theme: brand 
       text: Contact Me
       link: "mailto:awhipp@mit.edu"
-    - theme: alt
-      text: View Resume
-      link: "/portfolio/media/resume.pdf"
+#    - theme: alt
+#      text: View Resume
+#      link: "/portfolio/media/resume.pdf"
 features:
   - title: Projects
     details: A recap of personal and class projects I've pursued over the years.

@@ -3,23 +3,24 @@
 layout: home
 
 hero:
-  name: "Angel Whipple"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Angel Amir Whipple"
+  text: "Software engineer"
+  tagline: "Committed to reforming culture through technology"
   actions:
-    - theme: brand
-      text: Template Repository
-      link: "https://github.com/61040-fa24/vitepress-template"
+    - theme: brand 
+      text: Contact Me
+      link: "mailto:awhipp@mit.edu"
     - theme: alt
-      text: Example Site
-      link: "https://61040-fa24.github.io/portfolio-dhua/"
-
+      text: View Resume
+      link: "./media/resume.pdf"
 features:
-  - title: Blogs
-    details: Some cool blogs you'll write this semester!
-    link: /blogs
-  - title: Assignments
-    details: All of your assignments will be posted on your portfolio.
+  - title: Projects
+    details: A recap of personal projects I've pursued over the years.
+    link: /projects
+  - title: Experience
+    details: Explore my formal internship and teaching experiences.
+    link: /experience
   - title: About Me
-    details: You'll implement a small bio about yourself on here!
+    details: See who I am outside of the classroom.
+    link: /about
 ---

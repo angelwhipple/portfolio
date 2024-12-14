@@ -2,24 +2,37 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Angel Whipple Portfolio",
-  description: "6.1040 Fall 2024",
-  // TODO: add your base here; this should be your repo name!
-  // base: "/portfolio/",
+  title: "Angel Whipple",
+  description: "SWE Portfolio",
+  base: "/portfolio/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Blogs", link: "/blogs" },
+      { text: "Projects", link: "/projects" },
+      { text: "Experience", link: "/experience" },
+      { text: "About", link: "/about" },
     ],
 
     sidebar: [
       {
-        text: "Blogs",
-        link: "/blogs",
+        text: "Projects",
+        link: "/projects",
       },
+      {
+        text: "Experience",
+        link: "/experience",
+      },
+      {
+        text: "About Me",
+        link: "/about",
+      }
     ],
 
-    socialLinks: [{ icon: "github", link: "https://github.com/61040-fa24" }],
+    socialLinks: [
+        { icon: "github", link: "https://github.com/angelwhipple" },
+        { icon: "linkedin", link: "https://www.linkedin.com/in/angelwhipple/" },
+        { icon: "facebook", link: "https://www.facebook.com/whvpple" },
+    ],
   },
 });

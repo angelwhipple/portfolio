@@ -1,8 +1,8 @@
 ---
-title: Blog 1
+title: Crash
 layout: doc
 ---
 
-# Blog 1
+# Project 1
 
 Write some cool stuff here!

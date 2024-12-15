@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Angel Amir Whipple"
   text: "Software engineer"
-  tagline: "Committed to reforming culture through technology"
+  tagline: "Committed to reshaping culture through technology"
   actions:
     - theme: brand 
       text: Contact Me
